@@ -20,3 +20,6 @@
 ;;A single digit should return itself
 (expect 1 (sum-a-string "1"))
 
+;;Two digits separated by comma should return the sum of the digits
+(expect 2 (sum-a-string "1,1"))
+
