@@ -1,5 +1,5 @@
 (defproject clojure-regex "0.1.0-SNAPSHOT"
-  :description "FIXME: write description"
+  :description "Building Tests for regex1 Examples In Clojure"
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
